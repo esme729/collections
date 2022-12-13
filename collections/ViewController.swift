@@ -23,10 +23,10 @@ class ViewController: UIViewController {
     @IBAction func sam(_ sender: Any) {
         var stacy = tod.text ?? ""
         myArrayOfFood.append(stacy)
+        var v = myArrayOfFood.count - 1
         var output = ""
-        
-        for veggie in 0...3 {
-            output += "\(myArrayOfFood[veggie])\n"
+        for veggie in 0...v {
+             output += "\(myArrayOfFood[veggie])\n"
         }
         joe.text = output
         

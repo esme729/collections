@@ -24,7 +24,7 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" text="Butter, Lemons, Salad" textAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="Qrd-KJ-EPX">
-                                <rect key="frame" x="76" y="394" width="240" height="128"/>
+                                <rect key="frame" x="76" y="394" width="240" height="389"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                 <color key="textColor" systemColor="labelColor"/>
